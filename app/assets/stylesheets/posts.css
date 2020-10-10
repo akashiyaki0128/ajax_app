@@ -7,3 +7,7 @@
 .post-date{
   color: rgb(105, 78, 228);
 }
+
+div[data-check="true"] {
+  background: burlywood;
+}
